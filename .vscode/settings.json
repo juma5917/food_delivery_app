@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "emulator.androidColdBoot": true,
+    "emulator.emulatorPathLinux": "/home/juma/Android/Sdk/emulator"
+}
